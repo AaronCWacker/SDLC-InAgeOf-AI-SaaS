@@ -1,6 +1,13 @@
 # SDLC-InAgeOf-AI-SaaS
 Software Development Lifecycle in the Age of AI and SaaS
 
+# Tony Fadell rule of products
+## Tony is a Product Lifecycle genius who led the design of the iPod, iPhone, Nest, etc and worked as Steve Jobs design lead.  He sold Nest to Google.  Tony has a three step 'product press release' that he used at Apple for product design and development.  Tony is worth > $800 million today.
+
+# Tony's product lifecycle press release has three steps:
+1. Envision and explain the **Pain** experienced by your user.  These are requirements to solve.
+2. Next if you can remove the pain, what does that look like.  Describe the **Joy** of what user can do now that they have product.
+3. If we did perfectly, there are new things the user can do which they never could before.  Describe these as **Superpowers** the user now has because of your software or product invention describing what they can do now that they never could before.
 
 # SDLC in the age of AI and SaaS
 
